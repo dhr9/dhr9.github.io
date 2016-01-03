@@ -63,13 +63,15 @@ header {
   height: 200px;
   line-height: 200px;
   text-align: center;
-  background: #303e49;
+  /*background: #303e49;*/
+  background: #000000;
 }
 header h1 {
   color: white;
   font-size: 18px;
   font-size: 1.125rem;
 }
+
 @media only screen and (min-width: 1170px) {
   header {
     height: 300px;
@@ -146,19 +148,22 @@ header h1 {
 }
 .cd-timeline-img img {
   display: block;
-  width: 24px;
-  height: 24px;
+  width: 36px;
+  height: 36px;
   position: relative;
   left: 50%;
   top: 50%;
-  margin-left: -12px;
-  margin-top: -12px;
+  margin-left: -18px;
+  margin-top: -18px;
 }
 .cd-timeline-img.cd-picture {
   background: #75ce66;
 }
 .cd-timeline-img.cd-movie {
   background: #c03b44;
+}
+.cd-timeline-img.cd-baby{
+  background: rgb(255,255,255);
 }
 .cd-timeline-img.cd-location {
   background: #f0ca45;
