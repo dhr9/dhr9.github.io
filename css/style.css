@@ -171,6 +171,12 @@ header h1 {
 .cd-timeline-img.dhr-workshop{
   background: #ff8533;
 }
+.cd-timeline-img.dhr-post{
+  background: #cc33ff;
+}
+.cd-timeline-img.dhr-course{
+  background: #b3b3b3;
+}
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
     width: 60px;
