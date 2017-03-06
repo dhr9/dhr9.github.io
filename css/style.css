@@ -286,8 +286,10 @@ header h1 {
   float: right;
   padding: .8em 1em;
   background: #acb7c0;
-  color: white;
+  color: rgb(80, 80, 80);
   border-radius: 0.25em;
+  text-decoration: none;
+  font-weight: bold;
 }
 .no-touch .cd-timeline-content .cd-read-more:hover {
   background-color: #bac4cb;
