@@ -1,0 +1,22 @@
+<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="302" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+
+  <metadata transform="matrix(17.361109786563475,0,0,17.361109786563475,0,0) " id="svg_11">image/svg+xmlPICOL Icon2009-03-15Melih BilgilCreative Commons BY-SAPICOL - Pictorial Communication Languagehttp://blog.picol.orghttp://blog.picol.orgenPICOLiconiconssignGUIvectorinterfaceThis is one icon out of all PICOL iconsMelih Bilgil (www.lonja.de), Christopher Adjei (www.boffer.net)</metadata>
+  <g stroke="null" id="svg_13">
+   <g stroke="null" transform="matrix(11.548610591633565,0,0,11.76735967728234,180.22902831345863,145.71372440595013) " id="svg_9">
+    <rect stroke="null" x="-14.547794" y="-11.259237" id="svg_10" height="32" width="32" fill="none"/>
+   </g>
+   <path stroke="null" d="m224.878334,13.222238l-212.656115,0l0,376.55551l277.166654,0l0,-310.846573l-64.510539,-65.708936zm-4.804222,28.394639l41.436415,42.209519l-41.436415,0l0,-42.209519zm-184.754672,324.626151l0,-329.509606l161.680548,0l0,70.615925l69.291664,0l0,258.89368l-230.972212,0zm207.874991,-164.743035l0,23.534719l-184.777769,0l0,0l0,-23.534719l184.777769,0zm0,-47.069439l0,23.534719l-184.777769,0l0,0l0,-23.534719l184.777769,0zm-46.194442,94.138877l0,23.534719l-138.583327,0l0,0l0,-23.534719l138.583327,0z" id="svg_8"/>
+  </g>
+ </g>
+</svg>
