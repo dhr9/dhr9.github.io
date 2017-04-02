@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "data": [
     {
       "name": "1st year",
@@ -774,7 +774,7 @@
           "type": "folder",
           "data": [
             {
-              "name": "1 Malkauns   Lahekan lagi",
+              "name": "1 Malkauns Lahekan lagi",
               "tag": "CBR 00193",
               "type": "file",
               "data": []
