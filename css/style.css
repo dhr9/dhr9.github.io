@@ -165,16 +165,19 @@ header h1 {
 .cd-timeline-img.dhr-baby{
   background: #b3b3b3;  
 }
-.cd-timeline-img.cd-location {
+.cd-timeline-img.dhr-workex {
   background: #f7c250;
 }
 .cd-timeline-img.dhr-course{
   background: rgb(172, 57, 172);
 }
+.cd-timeline-img.dhr-workshop{
+  background: rgb(172, 57, 172);
+}
 .cd-timeline-img.dhr-post{
   background: #cc33ff;
 }
-.cd-timeline-img.dhr-workshop{
+.cd-timeline-img.dhr-project{
   background: #ff8533;
 }
 @media only screen and (min-width: 1170px) {
