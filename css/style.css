@@ -183,6 +183,9 @@ header h1 {
 .cd-timeline-img.dhr-project{
   background: #ff8533;
 }
+.cd-timeline-img.cd-sub-aqua {
+  background: #62a2f6;
+}
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
     width: 60px;
